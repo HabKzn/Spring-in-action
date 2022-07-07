@@ -1,4 +1,4 @@
-package sia.tacocloud.controller;
+package tacos;
 
 
 import org.springframework.stereotype.Controller;
